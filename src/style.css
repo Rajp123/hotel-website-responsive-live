@@ -314,3 +314,13 @@ h5{
     margin-top: 20px;
     margin-bottom: 50px;
 }
+
+#footer{
+    width:100%;
+    background-color:lightcyan;
+    color:black;
+    font-family: "Playfair Display";
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
