@@ -317,8 +317,8 @@ h5{
 
 #footer{
     width:100%;
-    background-color:lightcyan;
-    color:black;
+    background-color:rgb(168, 216, 216);
+    box-shadow: 0 10px 50px  rgba(0, 0, 0, 0.16), 0 2px 10px  rgba(0, 0, 0, 0.12);
     font-family: "Playfair Display";
     text-align: center;
     padding: 20px;
